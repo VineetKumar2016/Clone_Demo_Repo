@@ -19,7 +19,7 @@ function App() {
           <h1>Get started</h1>
           <p>
             Edit  <code>src/App.jsx</code> Sample app Data <code>HMR</code>
-        
+          </p>
         </div>
         <button
           className="counter"
